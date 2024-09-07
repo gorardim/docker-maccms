@@ -1,0 +1,3 @@
+[submodule "maccms"]
+  path = maccms
+	url = https://github.com/gorardim/maccms.git
